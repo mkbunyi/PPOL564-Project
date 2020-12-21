@@ -1,0 +1,235 @@
+Entity,Code,Terrain Ruggedness Index 100m (Nunn and Puga 2012)
+Afghanistan,AFG,2.518
+Albania,ALB,3.427
+Algeria,DZA,0.51
+American Samoa,ASM,2.647
+Andorra,AND,5.717
+Angola,AGO,0.858
+Anguilla,AIA,0.013
+Antigua and Barbuda,ATG,0.006
+Argentina,ARG,0.775
+Armenia,ARM,2.688
+Aruba,ABW,0.462
+Australia,AUS,0.143
+Austria,AUT,3.513
+Azerbaijan,AZE,1.672
+Bahamas,BHS,0.055
+Bahrain,BHR,0.231
+Bangladesh,BGD,0.186
+Barbados,BRB,0.963
+Belarus,BLR,0.164
+Belgium,BEL,0.388
+Belize,BLZ,0.607
+Benin,BEN,0.141
+Bermuda,BMU,0.015
+Bhutan,BTN,6.74
+Bolivia,BOL,0.853
+Bosnia and Herzegovina,BIH,2.311
+Botswana,BWA,0.181
+Brazil,BRA,0.24
+British Indian Ocean Territory,IOT,0.018
+British Virgin Islands,VGB,1.257
+Brunei,BRN,0.52
+Bulgaria,BGR,1.479
+Burkina Faso,BFA,0.236
+Burundi,BDI,1.78
+Cambodia,KHM,0.54
+Cameroon,CMR,0.515
+Canada,CAN,0.775
+Cape Verde,CPV,2.367
+Cayman Islands,CYM,0.096
+Central African Republic,CAF,0.197
+Chad,TCD,0.419
+Chile,CHL,2.481
+China,CHN,1.878
+Christmas Island,CXR,1.321
+Cocos Islands,CCK,0.015
+Colombia,COL,0.885
+Comoros,COM,3.328
+Congo,COG,0.152
+Cook Islands,COK,0.96
+Costa Rica,CRI,2.112
+Cote d'Ivoire,CIV,0.224
+Croatia,HRV,1.267
+Cuba,CUB,0.528
+Cyprus,CYP,2.718
+Czech Republic,CZE,0.884
+Democratic Republic of Congo,COD,0.443
+Denmark,DNK,0.189
+Djibouti,DJI,2.432
+Dominica,DMA,0.003
+Dominican Republic,DOM,1.641
+Ecuador,ECU,1.278
+Egypt,EGY,0.723
+El Salvador,SLV,1.75
+Equatorial Guinea,GNQ,0.559
+Eritrea,ERI,2.481
+Estonia,EST,0.123
+Ethiopia,ETH,1.57
+Faeroe Islands,FRO,2.253
+Falkland Islands,FLK,0.264
+Fiji,FJI,1.396
+Finland,FIN,0.328
+France,FRA,1.098
+French Guiana,GUF,0.205
+French Polynesia,PYF,2.072
+Gabon,GAB,0.218
+Gambia,GMB,0.353
+Georgia,GEO,3.659
+Germany,DEU,0.597
+Ghana,GHA,0.228
+Gibraltar,GIB,7.811
+Greece,GRC,3.103
+Greenland,GRL,0.41
+Grenada,GRD,2.088
+Guadeloupe,GLP,1.188
+Guam,GUM,0.666
+Guatemala,GTM,1.807
+Guinea,GIN,0.74
+Guinea-Bissau,GNB,0.491
+Guyana,GUY,0.273
+Haiti,HTI,2.362
+Honduras,HND,2.15
+Hong Kong,HKG,2.501
+Hungary,HUN,0.346
+Iceland,ISL,1.472
+India,IND,1.013
+Indonesia,IDN,0.967
+Iran,IRN,2.445
+Iraq,IRQ,0.67
+Ireland,IRL,0.513
+Israel,ISR,1.705
+Italy,ITA,2.458
+Jamaica,JAM,1.788
+Japan,JPN,2.132
+Jordan,JOR,1.097
+Kazakhstan,KAZ,0.372
+Kenya,KEN,0.669
+Kiribati,KIR,0.01
+Kuwait,KWT,0.245
+Kyrgyzstan,KGZ,4.287
+Laos,LAO,2.553
+Latvia,LVA,0.154
+Lebanon,LBN,4.197
+Lesotho,LSO,6.202
+Liberia,LBR,0.263
+Libya,LBY,0.403
+Liechtenstein,LIE,5.328
+Lithuania,LTU,0.175
+Luxembourg,LUX,0.881
+Macao,MAC,0.732
+Macedonia,MKD,2.665
+Madagascar,MDG,1.169
+Malawi,MWI,1.027
+Malaysia,MYS,1.009
+Maldives,MDV,0.012
+Mali,MLI,0.147
+Malta,MLT,1.527
+Marshall Islands,MHL,0.014
+Martinique,MTQ,1.206
+Mauritania,MRT,0.115
+Mauritius,MUS,0.949
+Mayotte,MYT,2.673
+Mexico,MEX,1.732
+Micronesia (country),FSM,1.353
+Moldova,MDA,0.799
+Monaco,MCO,6.612
+Mongolia,MNG,1.057
+Montserrat,MSR,3.395
+Morocco,MAR,2.413
+Mozambique,MOZ,0.612
+Myanmar,MMR,1.988
+Namibia,NAM,0.913
+Nauru,NRU,0.311
+Nepal,NPL,5.043
+Netherlands,NLD,0.037
+Netherlands Antilles,ANT,0.255
+New Caledonia,NCL,1.586
+New Zealand,NZL,2.038
+Nicaragua,NIC,0.992
+Niger,NER,0.178
+Nigeria,NGA,0.312
+Niue,NIU,0.177
+Norfolk Island,NFK,1.154
+North Korea,PRK,2.521
+Northern Mariana Islands,MNP,1.7
+Norway,NOR,2.409
+Oman,OMN,1.109
+Pakistan,PAK,1.949
+Palau,PLW,0.475
+Palestine,PSE,2.775
+Panama,PAN,1.54
+Papua New Guinea,PNG,1.589
+Paraguay,PRY,0.245
+Peru,PER,1.347
+Philippines,PHL,2.028
+Pitcairn,PCN,0.404
+Poland,POL,0.297
+Portugal,PRT,1.304
+Puerto Rico,PRI,1.447
+Qatar,QAT,0.181
+Reunion,REU,3.873
+Romania,ROU,1.267
+Russia,RUS,0.94
+Rwanda,RWA,3.309
+Saint Helena,SHN,3.863
+Saint Kitts and Nevis,KNA,0.006
+Saint Lucia,LCA,2.147
+Saint Pierre and Miquelon,SPM,0.833
+Saint Vincent and the Grenadines,VCT,3.071
+Samoa,WSM,1.677
+San Marino,SMR,1.802
+Sao Tome and Principe,STP,2.347
+Saudi Arabia,SAU,0.914
+Senegal,SEN,0.244
+Serbia,SRB,1.673
+Seychelles,SYC,4.885
+Sierra Leone,SLE,0.498
+Singapore,SGP,0.016
+Slovakia,SVK,1.56
+Slovenia,SVN,2.496
+Solomon Islands,SLB,1.54
+Somalia,SOM,0.65
+South Africa,ZAF,1.761
+South Korea,KOR,1.96
+Spain,ESP,1.689
+Sri Lanka,LKA,0.65
+Sudan,SDN,0.442
+Suriname,SUR,0.307
+Svalbard and Jan Mayen,SJM,1.623
+Swaziland,SWZ,3.063
+Sweden,SWE,0.715
+Switzerland,CHE,4.761
+Syria,SYR,0.756
+Taiwan,TWN,3.49
+Tajikistan,TJK,5.301
+Tanzania,TZA,0.677
+Thailand,THA,1.051
+Timor,TLS,1.85
+Togo,TGO,0.28
+Tokelau,TKL,0
+Tonga,TON,0.773
+Trinidad and Tobago,TTO,0.603
+Tunisia,TUN,0.726
+Turkey,TUR,2.62
+Turkmenistan,TKM,0.284
+Turks and Caicos Islands,TCA,0.007
+Tuvalu,TUV,0.025
+Uganda,UGA,0.913
+Ukraine,UKR,0.416
+United Arab Emirates,ARE,0.769
+United Kingdom,GBR,0.568
+United States,USA,1.073
+United States Minor Outlying Islands,UMI,0.005
+United States Virgin Islands,VIR,1.404
+Uruguay,URY,0.435
+Uzbekistan,UZB,0.526
+Vanuatu,VUT,1.729
+Vatican,VAT,0.438
+Venezuela,VEN,0.634
+Vietnam,VNM,2.054
+Wallis and Futuna,WLF,1.306
+Western Sahara,ESH,0.203
+Yemen,YEM,2.323
+Zambia,ZMB,0.533
+Zimbabwe,ZWE,1.194
